@@ -1,0 +1,6 @@
+# Ignore artifacts:
+build
+docker-compose.yml
+tsconfig.json
+coverage
+package.json
